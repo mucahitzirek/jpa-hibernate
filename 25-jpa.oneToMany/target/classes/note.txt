@@ -1,0 +1,13 @@
+OneToMant
+
+Bir sitemiz var Kullanıcılar kaydolarak elindeki bulunan ürünleri satmaya çalışıyor.
+
+O zaman bir veritabanımız olmalı. Bir user tablosu birde ürün tablosu şart.
+
+Peki bir kullanıcı birden fazla ürün satmak isterne ne yapacağız?
+
+Bu gibi durumlarda ara tablo oluşturulur veya ürün tablosuna ürünü satan kullanıcının ıd'si eklenir
+
+Bu ilişki Bir kullanıcı Birden fazla ürün ekleyebiliyorsa ve ynı ürünü farklı kullanıcı satamıyorsa 
+
+bu ilişkiye OneToMany ilişkisi denir.
